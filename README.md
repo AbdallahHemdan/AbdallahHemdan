@@ -43,8 +43,18 @@
 <br />
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
-<p><em><img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="30"> Software Enginnering Intern <a href="https://instabug.com/"> @Instabug </a></br><img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="30"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a><br /> <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="30"> I am passionate about Front-End, Competitive Programming and Comuter vision
-</em></p>
+
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25"> Software Enginnering Intern <a href="https://instabug.com/"> @Instabug </a>
+
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+
+- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25"> I am passionate about Front-End, Competitive Programming and Comuter vision
+
+- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25"> Currently learning storybook and how to use it with vue
+
+- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25"> Ask me about anything, I will be happy to help
+
+
 
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
