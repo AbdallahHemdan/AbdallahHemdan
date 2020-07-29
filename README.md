@@ -1,4 +1,4 @@
-### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
+### Hello <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="20px">, I'm [Hemdan](https://github.com/AbdallahHemdan) 
 
 <br/>
 <a href="https://twitter.com/spida_rwin">
@@ -28,4 +28,5 @@ I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hive
 I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
 Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
