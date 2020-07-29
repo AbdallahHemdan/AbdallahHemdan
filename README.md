@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/AbdallahHemdan">
-  <img align="left" alt="hemdan's codeforces" width="50px" src="https://media-exp1.licdn.com/dms/image/C5112AQHa6erTyCQTfg/article-cover_image-shrink_600_2000/0?e=1596672000&v=beta&t=7ECXhxecrqaHayecXSAdXGsoyJpA08BGKN3CNTTUjTU" />
+  <img align="left" alt="hemdan's codeforces" width="50px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/0.png" />
 </a>
 
 
