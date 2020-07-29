@@ -1,10 +1,10 @@
 <p align="center">
-  
-![Online games addiction](https://user-images.githubusercontent.com/40190772/88743911-35474300-d146-11ea-8f41-d218edeea1fc.gif)
 
+<img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Superhero.gif" align="center" />
+  
 </p>
 
-### Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="20px">, I'm [Hemdan!](https://github.com/AbdallahHemdan) 
+## Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="20px">, I'm [Hemdan!](https://github.com/AbdallahHemdan) 
 
 <br/>
 <a href="https://twitter.com/AbdallahHemda17">
@@ -27,13 +27,13 @@
 </a>
 <a href="https://codeforces.com/profile/AbdallahHemdan">
   <img align="left" alt="hemdan's codeforces" width="50px" src="https://media-exp1.licdn.com/dms/image/C5112AQHa6erTyCQTfg/article-cover_image-shrink_600_2000/0?e=1596672000&v=beta&t=7ECXhxecrqaHayecXSAdXGsoyJpA08BGKN3CNTTUjTU" />
-</a><br /> <br />
+</a>
 
+<br /> <br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. <br />
-I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
-I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
-Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
+<p><em><img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="30"> Software Enginnering Intern at <a href="https://instabug.com/"> Instabug </a></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> 
+</em></p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
