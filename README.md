@@ -29,11 +29,13 @@
   <img align="left" alt="hemdan's codeforces" width="50px" src="https://media-exp1.licdn.com/dms/image/C5112AQHa6erTyCQTfg/article-cover_image-shrink_600_2000/0?e=1596672000&v=beta&t=7ECXhxecrqaHayecXSAdXGsoyJpA08BGKN3CNTTUjTU" />
 </a>
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About me
+<p><em><img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="30"> Software Enginnering Intern at <a href="https://instabug.com/"> Instabug </a></br><img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="30"> Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> 
+</em></p>
+
 <br /> <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
-<p><em><img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="30"> Software Enginnering Intern at <a href="https://instabug.com/"> Instabug </a></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> 
-</em></p>
+
 
 
