@@ -45,7 +45,7 @@
 
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25"> I am passionate about Front-End, Competitive Programming and Comuter vision
+- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25"> I am passionate about Front-End, Competitive Programming and Computer vision
 
 - <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25"> Currently learning storybook and how to use it with vue
 
