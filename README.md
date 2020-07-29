@@ -28,14 +28,14 @@
 <a href="abdallah.ahmed.hemdan@gmail.com">
   <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
 </a>
+
 <a href="https://codeforces.com/profile/AbdallahHemdan">
   <img align="left" alt="hemdan's codeforces" width="50px" src="https://media-exp1.licdn.com/dms/image/C5112AQHa6erTyCQTfg/article-cover_image-shrink_600_2000/0?e=1596672000&v=beta&t=7ECXhxecrqaHayecXSAdXGsoyJpA08BGKN3CNTTUjTU" />
 </a>
 
 
 
-
-<br /> <br />
+<br /> <br /><br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
