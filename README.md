@@ -9,29 +9,29 @@
 
 <br/>
 <a href="https://twitter.com/AbdallahHemda17">
-  <img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
 </a>
 <a href="https://www.linkedin.com/in/abdallah-a-hemdan-4a94a614a/">
-  <img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a>
 <a href="https://www.facebook.com/AbdallahHemdan99">
-  <img align="left" alt="hemdan's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="hemdan's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
 </a>
 <a href="https://www.instagram.com/abdallah_a_hemdan/">
-  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
 </a>
 <a href="https://github.com/AbdallahHemdan">
-  <img align="left" alt="hemdan's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" />
+  <img align="left" alt="hemdan's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/Hemdan?hr_r=1">
-  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" />
+  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
 <a href="abdallah.ahmed.hemdan@gmail.com">
-  <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+  <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 
 <a href="https://codeforces.com/profile/AbdallahHemdan">
-  <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" />
+  <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
 
 
@@ -39,17 +39,17 @@
 <br />
 <br />
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25"> Software Enginnering Intern <a href="https://instabug.com/"> @Instabug </a>
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginnering Intern <a href="https://instabug.com/"> @Instabug </a>
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25"> I am passionate about Front-End, Competitive Programming and Computer vision
+- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
-- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25"> Currently learning storybook and how to use it with vue
+- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning storybook and how to use it with vue
 
-- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25"> Ask me about anything, I will be happy to help
+- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything, I will be happy to help
 
 
 
