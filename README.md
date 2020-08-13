@@ -4,9 +4,6 @@
   
 </p>
 
-
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Hemdan!](https://github.com/AbdallahHemdan) 
-
 <div align="center">
   
 [![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)
@@ -14,6 +11,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev)
 
 </div>
+
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Hemdan!](https://github.com/AbdallahHemdan) 
 
 <br/>
 <a href="https://twitter.com/AbdallahHemda17">
