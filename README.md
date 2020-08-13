@@ -4,14 +4,16 @@
   
 </p>
 
-<div align="center">
-  
-![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)
-
-</div>
-
 
 # Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Hemdan!](https://github.com/AbdallahHemdan) 
+
+<div align="center">
+  
+[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)
+![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)
+[![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev)
+
+</div>
 
 <br/>
 <a href="https://twitter.com/AbdallahHemda17">
