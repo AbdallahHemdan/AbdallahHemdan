@@ -48,7 +48,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginnering Intern <a href="https://instabug.com/"> @Instabug </a>
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>
 
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
