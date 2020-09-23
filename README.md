@@ -55,7 +55,7 @@
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
 - <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning storybook and how to use it with vue
-- <img src="https://www.clipartsfree.net/vector/large/60735-mechanics-icon-clipart.png" width="25" draggable="false"> Currently learning about lazy loading with Intersection observer
+- <img src="https://www.clipartsfree.net/vector/large/60735-mechanics-icon-clipart.png" width="25" draggable="false"> progressive web apps
 
 - <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything, I will be happy to help
 
