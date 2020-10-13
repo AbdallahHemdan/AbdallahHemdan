@@ -15,6 +15,9 @@
 # Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Hemdan!](https://github.com/AbdallahHemdan) 
 
 <br/>
+
+<div align="center">
+
 <a href="https://twitter.com/AbdallahHemda17">
   <img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
 </a>
@@ -42,6 +45,7 @@
 </a>
 
 
+</div>
 
 <br />
 <br />
