@@ -48,7 +48,6 @@
   <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
 
-
 </div>
 
 <br />
