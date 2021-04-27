@@ -57,15 +57,15 @@
 
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>  a company which focused on improving mobile app industry quality
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="20" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
+- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="20" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
-- <img src="https://www.cielhr.com/wp-content/uploads/2019/10/PerformancewSpace-1080x675.png" width="25" draggable="false"> I'm currently focused on improving my ability to provide high quality web applications using Vue.js
+- <img src="https://www.cielhr.com/wp-content/uploads/2019/10/PerformancewSpace-1080x675.png" width="20" draggable="false"> I'm currently focused on improving my ability to provide high quality web applications using Vue.js
 
-- <img src="https://thumbs.dreamstime.com/b/article-icon-trendy-design-style-isolated-white-background-vector-simple-modern-flat-symbol-web-site-mobile-logo-app-135744229.jpg" width="25" draggable="false"> I write about Frontend development, best practices in JS and development process, check my blog from [here](https://hemdan.hashnode.dev/)
+- <img src="https://thumbs.dreamstime.com/b/article-icon-trendy-design-style-isolated-white-background-vector-simple-modern-flat-symbol-web-site-mobile-logo-app-135744229.jpg" width="20" draggable="false"> I write about Frontend development, best practices in JS and development process, check my blog from [here](https://hemdan.hashnode.dev/)
 
-- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything, I will be happy to help
+- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="20" draggable="false"> Ask me about anything, I will be happy to help
 
 
 
