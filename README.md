@@ -92,9 +92,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
+<p align="center">
+  <a href="https://github.com/AbdlalahHemdan/github-readme-activity-graph"><img alt="Hemdan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdallahHemdan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdallahHemdan&show_icons=true&theme=radical)
 
 </div>
+
+
+
 
 
