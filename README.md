@@ -22,53 +22,42 @@
 
 <div align="center">
 
-<code><a href="https://twitter.com/AbdallahHemda17"><img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" /></a></code>
+<a href="https://twitter.com/AbdallahHemda17"><img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" /></a>
 
-<code><a href="https://www.linkedin.com/in/abdallah-a-hemdan/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" /></a></code>
+<a href="https://www.linkedin.com/in/abdallah-a-hemdan/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" /></a>
 
-<code><a href="https://www.facebook.com/AbdallahHemdan99">
+<a href="https://www.facebook.com/AbdallahHemdan99">
   <img align="left" alt="hemdan's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
-</a></code>
+</a>
 
-<code><a href="https://www.instagram.com/abdallah_a_hemdan/">
-  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" /></a></code>
+<a href="https://www.instagram.com/abdallah_a_hemdan/">
+  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" /></a>
   
-<code><a href="https://github.com/AbdallahHemdan">
+<a href="https://github.com/AbdallahHemdan">
   <img align="left" alt="hemdan's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a></code>
-
-<code><a href="https://www.hackerrank.com/Hemdan?hr_r=1">
+</a>
+<a href="https://www.hackerrank.com/Hemdan?hr_r=1">
   <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a></code>
-
-<code><a href="mailto:abdallah.ahmed.hemdan@gmail.com">
+</a>
+<a href="mailto:abdallah.ahmed.hemdan@gmail.com">
   <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 
-</code>
 
-<code>
 <a href="https://codeforces.com/profile/AbdallahHemdan">
   <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
 
-</code>
 
-<code>
 
 <a href="https://hemdan.hashnode.dev/">
   <img align="left" alt="hemdan's hashnode" width="35px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" draggable="false" />
 </a>
 
-</code>
-
-<code>
 
 <a href="https://a-hemdan.medium.com">
   <img align="left" alt="hemdan's medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" draggable="false" />
 </a>
-
-</code>
 
 </div>
 
