@@ -55,15 +55,16 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>  a company which focused on improving mobile app industry quality
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
 
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="20" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+
+- ✍️Technical Blogger at <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+</a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="20" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
 - <img src="https://www.cielhr.com/wp-content/uploads/2019/10/PerformancewSpace-1080x675.png" width="20" draggable="false"> I'm currently focused on improving my ability to provide high quality web applications using Vue.js
-
-- <img src="https://thumbs.dreamstime.com/b/article-icon-trendy-design-style-isolated-white-background-vector-simple-modern-flat-symbol-web-site-mobile-logo-app-135744229.jpg" width="20" draggable="false"> I write about Frontend development, best practices in JS and development process, check my blog from [here](https://hemdan.hashnode.dev/)
 
 - <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="20" draggable="false"> Ask me about anything, I will be happy to help
 
@@ -92,11 +93,21 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdallahHemdan&show_icons=true&theme=radical)
 
 </div>
 
 
+# 📝 Check out my latest articles!
+<!-- BLOG:START -->
+- [Conventional Commits](https://hemdan.hashnode.dev/conventional-commits)
+- [JavaScript Patterns [Ch.1: Introduction]](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)
+- [Conventional Comments](https://hemdan.hashnode.dev/conventional-comments)
+- [Vue Patterns - Part 1](https://hemdan.hashnode.dev/vue-patterns-part-1)
 
+<!-- BLOG:END -->
 
+<div align="center">
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdallahHemdan&show_icons=true&theme=radical)
+  
+</div>
