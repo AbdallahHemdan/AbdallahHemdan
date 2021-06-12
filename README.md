@@ -22,31 +22,53 @@
 
 <div align="center">
 
-<a href="https://twitter.com/AbdallahHemda17">
-  <img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
-</a>
-<a href="https://www.linkedin.com/in/abdallah-a-hemdan/">
-  <img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
-</a>
-<a href="https://www.facebook.com/AbdallahHemdan99">
+<code><a href="https://twitter.com/AbdallahHemda17"><img align="left" alt="hemdan | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" /></a></code>
+
+<code><a href="https://www.linkedin.com/in/abdallah-a-hemdan/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" /></a></code>
+
+<code><a href="https://www.facebook.com/AbdallahHemdan99">
   <img align="left" alt="hemdan's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
-</a>
-<a href="https://www.instagram.com/abdallah_a_hemdan/">
-  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
-</a>
-<a href="https://github.com/AbdallahHemdan">
+</a></code>
+
+<code><a href="https://www.instagram.com/abdallah_a_hemdan/">
+  <img align="left" alt="hemdan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" /></a></code>
+  
+<code><a href="https://github.com/AbdallahHemdan">
   <img align="left" alt="hemdan's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a>
-<a href="https://www.hackerrank.com/Hemdan?hr_r=1">
+</a></code>
+
+<code><a href="https://www.hackerrank.com/Hemdan?hr_r=1">
   <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
-<a href="mailto:abdallah.ahmed.hemdan@gmail.com">
+</a></code>
+
+<code><a href="mailto:abdallah.ahmed.hemdan@gmail.com">
   <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 
+</code>
+
+<code>
 <a href="https://codeforces.com/profile/AbdallahHemdan">
   <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
+
+</code>
+
+<code>
+
+<a href="https://hemdan.hashnode.dev/">
+  <img align="left" alt="hemdan's hashnode" width="35px" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" draggable="false" />
+</a>
+
+</code>
+
+<code>
+
+<a href="https://a-hemdan.medium.com">
+  <img align="left" alt="hemdan's medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" draggable="false" />
+</a>
+
+</code>
 
 </div>
 
@@ -55,23 +77,29 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="20" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
 - ✍️Technical Blogger at <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 
-- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="20" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
+- 📖 Currently Reading: "**JavaScript Patterns**" by [@Stoyan Stefanov](https://blog.stoyanstefanov.com/)
 
-- <img src="https://www.cielhr.com/wp-content/uploads/2019/10/PerformancewSpace-1080x675.png" width="20" draggable="false"> I'm currently focused on improving my ability to provide high quality web applications using Vue.js
+- 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision
 
-- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="20" draggable="false"> Ask me about anything, I will be happy to help
+- 🚧 I'm currently focused on improving my ability to provide high quality web applications using Vue.js
+
+- 🍀 Ask me about anything, I will be happy to help
+
+- 💬 Favourite Quotes: 
+
+  > “Premature optimization is the root of all evil” - Donald knuth
+
+  > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
 
 
-
-
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
+# 🧰 My Skills
 
 <div align="center">
 
@@ -92,12 +120,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
 </div>
 
+<br /><br />
 
-# 📝 Check out my latest articles!
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Check out my latest articles!
 <!-- BLOG:START -->
 - [Conventional Commits](https://hemdan.hashnode.dev/conventional-commits)
 - [JavaScript Patterns [Ch.1: Introduction]](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)
