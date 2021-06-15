@@ -70,7 +70,7 @@
 
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- ✍️Technical Blogger at <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+- ✍️Technical Blogger @ <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 
 - 📖 Currently Reading: "**JavaScript Patterns**" by [@Stoyan Stefanov](https://blog.stoyanstefanov.com/)
