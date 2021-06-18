@@ -123,6 +123,7 @@
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My latest articles!
 <!-- BLOG:START -->
+- [CSS Nesting](https://hemdan.hashnode.dev/css-nesting)
 - [Conventional Commits](https://hemdan.hashnode.dev/conventional-commits)
 - [JavaScript Patterns [Ch.1: Introduction]](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)
 - [Conventional Comments](https://hemdan.hashnode.dev/conventional-comments)
