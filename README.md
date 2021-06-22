@@ -81,6 +81,8 @@
 
 - 🍀 Ask me about anything, I will be happy to help
 
+- ⭐ Spotlight of the Week in hashnode with **+30K** page view <a href="https://twitter.com/hashnode/status/1407316192319127562" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-ffffff?logo=twitter&style=flat-square" /></a>
+
 - 💬 Favourite Quotes: 
 
   > “Premature optimization is the root of all evil” - Donald knuth
