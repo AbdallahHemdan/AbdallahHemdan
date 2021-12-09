@@ -40,7 +40,7 @@
   <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
 <a href="mailto:abdallah.ahmed.hemdan@gmail.com">
-  <img align="left" alt="hemdan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" alt="hemdan's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
 
 
