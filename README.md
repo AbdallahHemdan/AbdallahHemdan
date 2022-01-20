@@ -73,15 +73,17 @@
 - ✍️Technical Blogger @ <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 
-- 📖 Currently Reading: "**JavaScript Patterns**" by [@Stoyan Stefanov](https://blog.stoyanstefanov.com/)
+- 📖 Currently Reading: "**Frontend Architecture for Design Systems**" by [@Micah Godbolt](https://www.micahgodbolt.com/)
 
-- 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision
+- 🏃‍♂️ I am passionate about Front-End, Web Performance, Competitive Programming and, Computer vision
 
 - 🚧 I'm currently focused on improving my ability to provide high quality web applications using Vue.js
 
 - 🍀 Ask me about anything, I will be happy to help
 
 - ⭐ Spotlight of the Week in hashnode with **+30K** page view <a href="https://twitter.com/hashnode/status/1407316192319127562" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-ffffff?logo=twitter&style=flat-square" /></a>
+
+- 🥷Instabug Ultimate Team 2x ([21Q3](https://bit.ly/3nI4NIh), [21Q4](https://bit.ly/3fK2Oyu))
 
 - 💬 Favourite Quotes: 
 
