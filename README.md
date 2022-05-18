@@ -127,6 +127,7 @@
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My latest articles!
 <!-- BLOG:START -->
+- [Frontend System Design Series](https://hemdan.hashnode.dev/series/fe-system-design)
 - [Actions On Visibility](https://hemdan.hashnode.dev/actions-on-visibility)
 - [CSS Nesting](https://hemdan.hashnode.dev/css-nesting)
 - [Conventional Commits](https://hemdan.hashnode.dev/conventional-commits)
@@ -135,9 +136,9 @@
 - [Vue Patterns - Part 1](https://hemdan.hashnode.dev/vue-patterns-part-1)
 
 <!-- BLOG:END -->
-
+<!-- 
 <div align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdallahHemdan&show_icons=true&theme=radical)
   
-</div>
+</div> -->
