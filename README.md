@@ -16,7 +16,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Hemdan!](https://www.linkedin.com/in/hemdan99/) 
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Hemdan!](https://www.linkedin.com/in/hemdan99/) 
 
 <br/>
 
