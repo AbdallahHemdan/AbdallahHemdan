@@ -66,7 +66,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Senior Software Enginner<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
 
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
