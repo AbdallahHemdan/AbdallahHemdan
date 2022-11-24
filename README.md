@@ -68,7 +68,7 @@
 
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Senior Software Enginner<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
 
-- 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🎓 Graduated from <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> Computer Engineering departement
 
 - ✍️Technical Blogger @ <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 </a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
