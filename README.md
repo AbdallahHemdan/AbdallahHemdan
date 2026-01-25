@@ -20,6 +20,7 @@
 
 <div align="center">
 
+<a href="[https://twitter.com/AbdallahHemda17](https://www.youtube.com/@ahemdan)"><img align="left" alt="hemdan | Youtube" width="30px" src="https://www.pixartprinting.co.uk/blog/wp-content/uploads/2025/05/Youtube_logo.jpg" draggable="false" /></a>
 <a href="https://twitter.com/AbdallahHemda17"><img align="left" alt="hemdan | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" draggable="false" /></a>
 
 <a href="https://www.linkedin.com/in/abdallah-a-hemdan/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
@@ -34,9 +35,7 @@
 <a href="https://github.com/AbdallahHemdan">
   <img align="left" alt="hemdan's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
-<a href="https://www.hackerrank.com/Hemdan?hr_r=1">
-  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
+
 <a href="mailto:abdallah.ahmed.hemdan@gmail.com">
   <img align="left" alt="hemdan's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
