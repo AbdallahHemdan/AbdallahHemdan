@@ -63,8 +63,8 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/monarchmoney.png" width="20" draggable="false"> A Senior Software Engineer at [Monarch](https://www.monarch.com/), simplifying personal finance by bringing all your accounts together into one clear view
-- <img src="https://cdn.prod.website-files.com/65b3cc40daa94fa5529af14b/65b3cc40daa94fa5529af260_favicon.png" width="20" draggable="false"> x-Senior Frontend Engineer at [Wondercraft.ai](https://wondercraft.ai/), an AI video studio focused on turning powerful AI output into business-ready video
+- <img src="https://github.com/monarchmoney.png" width="20" draggable="false"> A Senior Product Engineer at [Monarch](https://www.monarch.com/), simplifying personal finance by bringing all your accounts together into one clear view
+- <img src="https://cdn.prod.website-files.com/65b3cc40daa94fa5529af14b/65b3cc40daa94fa5529af260_favicon.png" width="20" draggable="false"> x-Frontend Lead Engineer at [Wondercraft.ai](https://wondercraft.ai/), an AI video studio focused on turning powerful AI output into business-ready video
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false">x-Frontend Tech Lead<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
 
 - 🎓 Graduated from <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> Computer Engineering departement
